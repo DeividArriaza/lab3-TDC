@@ -1,0 +1,6 @@
+# Expresiones regulares del Laboratorio #3
+# Una por linea. Las lineas en blanco y las que empiezan con # se ignoran.
+(a*|b*)+
+((ε|a)|b*)*
+(a|b)*abb(a|b)*
+0?(1?)?0*
