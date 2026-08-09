@@ -1,0 +1,8 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Graphviz: el .gv es el paso intermedio en texto; las imagenes si se conservan
+*.gv
